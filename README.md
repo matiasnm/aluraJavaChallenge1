@@ -1,7 +1,6 @@
 # Alura Back End Challenge ONE
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=matiasnm&repo=/matiasnm/aluraJavaChallenge1&countColor=%230e75b6)
- <h1 aling="center"> Conversor de Monedas 🏦 </h1>
 
 ___
 
